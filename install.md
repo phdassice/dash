@@ -12,6 +12,7 @@ flask
 ```
 
 # 2. 配置
+   1:請將`example_setting.json`改成`setting.json`
 - 以下是解釋
 ```json
 {
