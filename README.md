@@ -15,7 +15,7 @@
 <br>
 
 # 截圖
-demo: https://shop.mycard.lol/<br>
+成品: https://shop.asteroid.tw<br>
 ![圖一](https://github.com/HansHans135/boardmate/blob/main/img/1.jpeg)
 ![圖二](https://github.com/HansHans135/boardmate/blob/main/img/2.jpeg)
 ![圖三](https://github.com/HansHans135/boardmate/blob/main/img/3.jpeg)
